@@ -24,14 +24,24 @@ var questions = [{
   options:"A. Smita Singh\nB. Anurag Kashyap\nC.Vikramaditya Motwane\nD. Neeraj Ghaywan",
   answer: "Smita Singh"
 }, {
-  question: "2.Who was the editor of the movie? ",
-  options:"A. Swapnil Sonawane\nB. Aseem Bajaj\nC. Sylvester Fonseca\nD. Aarti Bajaj",
-  answer: "Aarti Bajaj"
+  question: "2.Kabhi Kabhi Lagta Hai Apun Hi __________ Hai",
+  options:"A. Insaan\nB. Devil\nC. Bhoot\nD. Bhagwan",
+  answer: "Bhagwan"
 },
 {
-  question: "3.When was the original release date of the movie? ",
+  question: "3.When was the original release date of the Series? ",
   options:"A. Sept 6 2013\nB. June 7 2012\nC. July 6 2018\nD. July 7 2017",
   answer: "July 6 2018"
+},
+{
+  question: "4.Who Killed Ganesh Gaitonde Mother?",
+  options:"A. Isa Suleiman\nB. Ganesh Gaittonde\nC. Gaitonde First Father\nD. Bunty",
+  answer: "Ganesh Gaitonde"
+},
+{
+  question: "5. What Is The Profession Of Gaitonde First Father?",
+  options:"A. Pandit\nB. Bouncer\nC. Terrorist\nD. Painter",
+  answer: "Pandit"
 }];
 
 function welcome() {
